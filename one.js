@@ -1,3 +1,5 @@
+// my first repository 
+
 let boxes= document.querySelectorAll(".box");
 let resetbtn=document.querySelector(".resetbtn");
 let winn=document.querySelector(".hide");
