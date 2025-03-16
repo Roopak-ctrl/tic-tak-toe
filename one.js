@@ -20,7 +20,7 @@ let winningpattern=[
 
 boxes.forEach((box) => {
     box.addEventListener("click", ()=>{
-        console.log("hello");
+        // console.log("hello");
         if (turn0==true){
             box.innerText="X"
             turn0=false
